@@ -1,27 +1,21 @@
 ---
-title: Home
+title: Kuchařka pro začátečníky
 ---
 
-# Hello World! (It works!)
+**Cílem práce je vytvořit nebowou kuchařku, kde budou recepty popsány tak, aby jim rozuměl i úplný amatér.**
 
-This are the contents of the Hugo start website front page.
+Ne každý mluví anglicky. Což je škoda, jelikož je spousta receptů, které jsou vydané pouze v angličtině a nejsou přeložené. Chtěla bych tyto recepty přeložit a umožnit tyto recepty vyzkoušet ikdyž nerozumíte angličtině.
 
-## Something to read: Sonnet LXVI.
+Osobnosti, jejiž recepty bych ráda zařadila do své online kuchařky jsou například Gordon Ramsay, Jamie Oliver, Chris Jenner a Ellen Degeneres.
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+Na mé webové stránce se ale nebudou nacházet jen recepty slavných osobností, ale také moje či mé rodiny. Tyto recepty nejsou moc rozšířené ale jsou velmi chutné a přesto je většina z nich jednoduchá, levná a zvládne je opravdu každý.
+
+Zdroj 1: https://www.gordonramsay.com/gr/recipes/
+
+Zdroj 2: https://www.jamieoliver.com/recipes/
+
+Zdroj 3: https://people.com/food/kardashian-jenner-family-easy-recipes/
+
+(Odkaz na web na Netlify)
+
 
