@@ -16,6 +16,6 @@ Zdroj 2: https://www.jamieoliver.com/recipes/
 
 Zdroj 3: https://people.com/food/kardashian-jenner-family-easy-recipes/
 
-(Odkaz na web na Netlify)
+https://eloquent-jones-048cc6.netlify.com/
 
 
